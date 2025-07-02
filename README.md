@@ -1,4 +1,6 @@
-<img src="/assets/Team-Logo.png" width="350" height="350" alt="Three Berries Logo" />
+<div align="center">
+  <img src="/assets/Team-Logo.png" width="350" height="350" alt="Three Berries Logo" />
+</div>
 
 # Three Berries
 
